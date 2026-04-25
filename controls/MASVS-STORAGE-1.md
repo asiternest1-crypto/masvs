@@ -1,4 +1,4 @@
-# MASVS-STORAGE-1
+STORAGE-1
 
 ## Control
 
